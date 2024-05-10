@@ -1,0 +1,7 @@
+pandas==2.2.0  # Released: Jan 19, 2024[^1^][4]
+matplotlib==3.8.2  # Released: Nov 17, 2023[^2^][2]
+numpy==1.26.4  # As of the latest information[^3^][3]
+scipy==1.12.0  # Released: Aug 1, 2021[^4^][18]
+scikit-learn==1.4.1.post1 # As per the latest document[^5^][10]
+plotly==5.18.0  # Released: Oct 25, 2023[^8^][29]
+torch==2.2.0  # Released: Jan 30, 2024[^10^][33]
